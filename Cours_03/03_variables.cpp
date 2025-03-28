@@ -5,17 +5,19 @@ int main()
 {
     // Variables et types de données
     // Déclaration et initialisation
-
     int entier = 10;
     double reel = 2.4;
     float flottant = 3.14f;
     char caractere = 'a';
+    char sexe = 'M';
+    char separator = '\n';
     bool exist = true;
 
     short petitEntier = 32767;
     long grandEntier = 1000000;
     long long tresGrandEntier = 9223372036854775807LL;
     unsigned int positif = 50;
+    signed int negatif = -50;
     std::string texte = "Hello, C++!";
 
     // Affichage des valeurs et de la taille en mémoire

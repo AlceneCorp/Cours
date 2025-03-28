@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Cours\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3CCD8AC3-66C6-45C8-8BD8-3E7DFA96466E}|Cours_06\\Cours_06.vcxproj|C:\\Users\\Admin\\source\\repos\\Cours\\Cours_06\\06_structure_conditionnelles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3CCD8AC3-66C6-45C8-8BD8-3E7DFA96466E}|Cours_06\\Cours_06.vcxproj|solutionrelative:Cours_06\\06_structure_conditionnelles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DDFFEE7D-6DAD-4395-9096-3FF0174D7771}|Cours_07\\Cours_07.vcxproj|C:\\Users\\Admin\\source\\repos\\Cours\\Cours_07\\07_les_boucles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDFFEE7D-6DAD-4395-9096-3FF0174D7771}|Cours_07\\Cours_07.vcxproj|solutionrelative:Cours_07\\07_les_boucles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "06_structure_conditionnelles.cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\Cours_06\\06_structure_conditionnelles.cpp",
-              "RelativeDocumentMoniker": "Cours_06\\06_structure_conditionnelles.cpp",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\Cours_06\\06_structure_conditionnelles.cpp",
-              "RelativeToolTip": "Cours_06\\06_structure_conditionnelles.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
+              "Title": "07_les_boucles.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\Cours_07\\07_les_boucles.cpp",
+              "RelativeDocumentMoniker": "Cours_07\\07_les_boucles.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\Cours_07\\07_les_boucles.cpp",
+              "RelativeToolTip": "Cours_07\\07_les_boucles.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-27T05:49:22.057Z",
+              "WhenOpened": "2025-03-28T17:35:39.079Z",
               "EditorCaption": ""
             }
           ]

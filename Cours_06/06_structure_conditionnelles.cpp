@@ -3,7 +3,6 @@
 
 int main() 
 {
-
     // --- 1️ Structure if, else if, else ---
     int age;
     std::cout << "Entrez votre âge : ";

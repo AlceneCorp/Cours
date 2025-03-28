@@ -1,7 +1,3 @@
-//Importation des biblothèques.
-#include <iostream>
-
-
 //main() est ce qui s'excécute quand nous exécutons le programe.
 int main()
 {

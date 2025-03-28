@@ -1,6 +1,7 @@
 #include <iostream>
 
-int main() {
+int main() 
+{
     int a = 10, b = 3;
     bool x = true, y = false;
 
@@ -26,14 +27,17 @@ int main() {
     std::cout << "!x : " << !x << std::endl;
 
     std::cout << "\n==== OPERATEURS D'AFFECTATION ====" << std::endl;
+    //On déclare et initialise un entier "c" égal à 5
     int c = 5;
+
     std::cout << "Valeur initiale de c : " << c << std::endl;
-    c += 2;
-    std::cout << "c += 2 : " << c << std::endl;
+    //affectation
+    c = c + 2;
+    std::cout << "c += 2 : " << c << std::endl; //7
     c *= 3;
-    std::cout << "c *= 3 : " << c << std::endl;
+    std::cout << "c *= 3 : " << c << std::endl; //21
     c -= 4;
-    std::cout << "c -= 4 : " << c << std::endl;
+    std::cout << "c -= 4 : " << c << std::endl; //17
 
     std::cout << "\n==== OPERATEURS D'INCREMENTATION / DECREMENTATION ====" << std::endl;
     int d = 5;
