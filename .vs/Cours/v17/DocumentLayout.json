@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Cours\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDFFEE7D-6DAD-4395-9096-3FF0174D7771}|Cours_07\\Cours_07.vcxproj|C:\\Users\\Admin\\source\\repos\\Cours\\Cours_07\\07_les_boucles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DDFFEE7D-6DAD-4395-9096-3FF0174D7771}|Cours_07\\Cours_07.vcxproj|solutionrelative:Cours_07\\07_les_boucles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2AFDA5B9-950B-441C-8CBB-10D31F26E04E}|Exercice_01\\Exercice_01.vcxproj|C:\\Users\\Admin\\source\\repos\\Cours\\Exercice_01\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2AFDA5B9-950B-441C-8CBB-10D31F26E04E}|Exercice_01\\Exercice_01.vcxproj|solutionrelative:Exercice_01\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "07_les_boucles.cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\Cours_07\\07_les_boucles.cpp",
-              "RelativeDocumentMoniker": "Cours_07\\07_les_boucles.cpp",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\Cours_07\\07_les_boucles.cpp",
-              "RelativeToolTip": "Cours_07\\07_les_boucles.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\Exercice_01\\Main.cpp",
+              "RelativeDocumentMoniker": "Exercice_01\\Main.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\Exercice_01\\Main.cpp",
+              "RelativeToolTip": "Exercice_01\\Main.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-28T17:35:39.079Z",
+              "WhenOpened": "2025-03-28T20:33:07.889Z",
               "EditorCaption": ""
             }
           ]

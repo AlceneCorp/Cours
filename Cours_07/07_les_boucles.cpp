@@ -1,9 +1,13 @@
-﻿#include <iostream>
+﻿//Inclusion des bibliothèques 
+#include <iostream>
 
+//Fonction principale du programme
 int main() 
 {
     // 1️ La boucle for
     std::cout << "### Boucle for ###" << std::endl;
+
+
     for (int i = 0; i < 5; i++) 
     {
         std::cout << "for : i = " << i << std::endl;
@@ -11,9 +15,18 @@ int main()
 
     std::cout << std::endl;
 
+
     // 2️ La boucle while
+
+
+
+
     std::cout << "### Boucle while ###" << std::endl;
+
+
     int j = 0;
+
+
     while (j < 5) 
     {
         std::cout << "while : j = " << j << std::endl;
@@ -24,12 +37,15 @@ int main()
 
     // 3️ La boucle do-while
     std::cout << "### Boucle do-while ###" << std::endl;
-    int k = 0;
+
+    int k = 5;
+
     do 
     {
         std::cout << "do-while : k = " << k << std::endl;
         k++;
     } while (k < 5);
+
 
     std::cout << std::endl;
 
