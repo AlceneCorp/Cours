@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Cours\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FA9793BC-48BE-45E5-ADFF-D7E42AFE98E0}|Cours_09\\Cours_09.vcxproj|C:\\Users\\Admin\\source\\repos\\Cours\\Cours_09\\09_les_pointeurs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA9793BC-48BE-45E5-ADFF-D7E42AFE98E0}|Cours_09\\Cours_09.vcxproj|solutionrelative:Cours_09\\09_les_pointeurs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2AFDA5B9-950B-441C-8CBB-10D31F26E04E}|Exercice_01\\Exercice_01.vcxproj|C:\\Users\\Admin\\source\\repos\\Cours\\Exercice_01\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2AFDA5B9-950B-441C-8CBB-10D31F26E04E}|Exercice_01\\Exercice_01.vcxproj|solutionrelative:Exercice_01\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "09_les_pointeurs.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\Cours_09\\09_les_pointeurs.cpp",
+              "RelativeDocumentMoniker": "Cours_09\\09_les_pointeurs.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\Cours_09\\09_les_pointeurs.cpp",
+              "RelativeToolTip": "Cours_09\\09_les_pointeurs.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-30T02:50:12.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\Exercice_01\\Main.cpp",
               "RelativeDocumentMoniker": "Exercice_01\\Main.cpp",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\Exercice_01\\Main.cpp",
               "RelativeToolTip": "Exercice_01\\Main.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBkAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-28T20:33:07.889Z",
               "EditorCaption": ""
