@@ -2,7 +2,8 @@
 
 using namespace std; // Permet d'éviter d'écrire "std::" avant cout et endl
 
-int main() {
+int main() 
+{
     int boite = 10; // Déclare une variable "boîte" qui contient la valeur 10
     int* etiquette = &boite; // Déclare un pointeur "étiquette" qui stocke l'adresse de "boîte"
 
