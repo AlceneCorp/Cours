@@ -11,7 +11,6 @@ int main()
 	bool isOn = true;
 
 
-
 	do
 	{
 		system("cls");
