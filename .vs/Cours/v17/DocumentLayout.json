@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Cours\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8137E031-3214-4680-8FB0-A09213989914}|Cours_12\\Cours_12.vcxproj|C:\\Users\\Admin\\source\\repos\\Cours\\Cours_12\\12_repertoires.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8137E031-3214-4680-8FB0-A09213989914}|Cours_12\\Cours_12.vcxproj|solutionrelative:Cours_12\\12_repertoires.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3D8FE230-6578-4FA8-B53C-3522242DE5DB}|Cours_11\\Cours_11.vcxproj|C:\\Users\\Admin\\source\\repos\\Cours\\Cours_11\\11_classes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D8FE230-6578-4FA8-B53C-3522242DE5DB}|Cours_11\\Cours_11.vcxproj|solutionrelative:Cours_11\\11_classes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1118E6AB-3C2D-4355-9A51-801C88D3F6CA}|Cours_10\\Cours_10.vcxproj|C:\\Users\\Admin\\source\\repos\\Cours\\Cours_10\\10_stuctures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1118E6AB-3C2D-4355-9A51-801C88D3F6CA}|Cours_10\\Cours_10.vcxproj|solutionrelative:Cours_10\\10_stuctures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,16 +29,37 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "10_stuctures.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\Cours_10\\10_stuctures.cpp",
+              "RelativeDocumentMoniker": "Cours_10\\10_stuctures.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\Cours_10\\10_stuctures.cpp",
+              "RelativeToolTip": "Cours_10\\10_stuctures.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-31T21:40:19.44Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "12_repertoires.cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\Cours_12\\12_repertoires.cpp",
-              "RelativeDocumentMoniker": "Cours_12\\12_repertoires.cpp",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\Cours_12\\12_repertoires.cpp*",
-              "RelativeToolTip": "Cours_12\\12_repertoires.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Title": "11_classes.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\Cours_11\\11_classes.cpp",
+              "RelativeDocumentMoniker": "Cours_11\\11_classes.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\Cours_11\\11_classes.cpp",
+              "RelativeToolTip": "Cours_11\\11_classes.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-31T19:50:31.856Z",
+              "WhenOpened": "2025-03-31T21:38:35.786Z",
               "EditorCaption": ""
             }
           ]

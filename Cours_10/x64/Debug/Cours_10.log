@@ -1,3 +1,2 @@
 ﻿  10_stuctures.cpp
-C:\Users\Admin\source\repos\Cours\Cours_10\10_stuctures.cpp(21,24): warning C4305: '=' : troncation de 'double' à 'float'
   Cours_10.vcxproj -> C:\Users\Admin\source\repos\Cours\x64\Debug\Cours_10.exe

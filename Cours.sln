@@ -33,6 +33,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cours_11", "Cours_11\Cours_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cours_12", "Cours_12\Cours_12.vcxproj", "{8137E031-3214-4680-8FB0-A09213989914}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cours C#", "Cours C#", "{D6E71541-C7B4-484D-9604-C78FAFEF6DE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64

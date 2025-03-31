@@ -1,29 +1,44 @@
 #include <iostream>
+#include <string>
 
 using namespace std;
 
-// Définition d'une structure "Personne"
-struct Personne 
+struct Points
 {
-    string nom;      // Nom de la personne
-    int age;         // Âge de la personne
-    float taille;    // Taille en mètres
+    string name;
+    int x;
+    int y;
+    int z;
 };
+
+//Prototypage
+void afficherPoint(Points paramPoints);
 
 int main() 
 {
-    // Déclaration d'une variable de type Personne
-    Personne individu1;
+    Points pt1, pt2;
 
-    // Assignation des valeurs aux membres de la structure
-    individu1.nom = "Alice";
-    individu1.age = 25;
-    individu1.taille = 1.68;
+    pt1.name = "Point de Peach";
+    pt1.x = 10;
+    pt1.y = 2;
+    pt1.z = 5;
 
-    // Affichage des informations
-    cout << "Nom : " << individu1.nom << endl;
-    cout << "Âge : " << individu1.age << " ans" << endl;
-    cout << "Taille : " << individu1.taille << " m" << endl;
+    pt2.name = "Point de Alcene";
+    pt2.x = 1;
+    pt2.y = 20;
+    pt2.z = 50;
+
+    afficherPoint(pt1);
+    afficherPoint(pt2);
 
     return 0;
+}
+
+//Implémentation
+void afficherPoint(Points paramPoints)
+{
+    cout << paramPoints.name << " : " << endl;
+    cout << "\tx = " << paramPoints.x << endl;
+    cout << "\ty = " << paramPoints.y << endl;
+    cout << "\tz = " << paramPoints.z << endl;
 }
