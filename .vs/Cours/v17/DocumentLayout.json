@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Cours\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D8FE230-6578-4FA8-B53C-3522242DE5DB}|Cours_11\\Cours_11.vcxproj|C:\\Users\\Admin\\source\\repos\\Cours\\Cours_11\\11_classes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3D8FE230-6578-4FA8-B53C-3522242DE5DB}|Cours_11\\Cours_11.vcxproj|solutionrelative:Cours_11\\11_classes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5023F26-F5EC-48AF-8075-4D25429A3D5E}|Cours_08\\Cours_08.vcxproj|C:\\Users\\Admin\\source\\repos\\Cours\\Cours_08\\08_les_functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D5023F26-F5EC-48AF-8075-4D25429A3D5E}|Cours_08\\Cours_08.vcxproj|solutionrelative:Cours_08\\08_les_functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA9793BC-48BE-45E5-ADFF-D7E42AFE98E0}|Cours_09\\Cours_09.vcxproj|C:\\Users\\Admin\\source\\repos\\Cours\\Cours_09\\09_les_pointeurs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FA9793BC-48BE-45E5-ADFF-D7E42AFE98E0}|Cours_09\\Cours_09.vcxproj|solutionrelative:Cours_09\\09_les_pointeurs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AFDA5B9-950B-441C-8CBB-10D31F26E04E}|Exercice_01\\Exercice_01.vcxproj|C:\\Users\\Admin\\source\\repos\\Cours\\Exercice_01\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2AFDA5B9-950B-441C-8CBB-10D31F26E04E}|Exercice_01\\Exercice_01.vcxproj|solutionrelative:Exercice_01\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8137E031-3214-4680-8FB0-A09213989914}|Cours_12\\Cours_12.vcxproj|C:\\Users\\Admin\\source\\repos\\Cours\\Cours_12\\12_repertoires.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8137E031-3214-4680-8FB0-A09213989914}|Cours_12\\Cours_12.vcxproj|solutionrelative:Cours_12\\12_repertoires.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,51 +27,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "11_classes.cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\Cours_11\\11_classes.cpp",
-              "RelativeDocumentMoniker": "Cours_11\\11_classes.cpp",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\Cours_11\\11_classes.cpp",
-              "RelativeToolTip": "Cours_11\\11_classes.cpp",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwA4AAAAFAAAAAAAAAA==",
+              "Title": "12_repertoires.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\Cours_12\\12_repertoires.cpp",
+              "RelativeDocumentMoniker": "Cours_12\\12_repertoires.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\Cours_12\\12_repertoires.cpp*",
+              "RelativeToolTip": "Cours_12\\12_repertoires.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-31T18:24:02.112Z",
+              "WhenOpened": "2025-03-31T19:50:31.856Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "08_les_functions.cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\Cours_08\\08_les_functions.cpp",
-              "RelativeDocumentMoniker": "Cours_08\\08_les_functions.cpp",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\Cours_08\\08_les_functions.cpp",
-              "RelativeToolTip": "Cours_08\\08_les_functions.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-31T18:19:28.687Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "09_les_pointeurs.cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\Cours_09\\09_les_pointeurs.cpp",
-              "RelativeDocumentMoniker": "Cours_09\\09_les_pointeurs.cpp",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\Cours_09\\09_les_pointeurs.cpp",
-              "RelativeToolTip": "Cours_09\\09_les_pointeurs.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-31T18:19:21.214Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\Exercice_01\\Main.cpp",
-              "RelativeDocumentMoniker": "Exercice_01\\Main.cpp",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\Exercice_01\\Main.cpp",
-              "RelativeToolTip": "Exercice_01\\Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-28T20:33:07.889Z"
             }
           ]
         }
