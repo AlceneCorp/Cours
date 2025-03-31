@@ -13,8 +13,8 @@ class Personne
     // Constructeur
     Personne(string nomPers, int agePers) 
     {
-        nom = nomPers;
-        age = agePers;
+        this->nom = nomPers;
+        this->age = agePers;
     }
 
     // Méthode pour afficher les infos
