@@ -1,0 +1,19 @@
+1. Afficher "Combien d'étudiants voulez-vous enregistrer ?"
+2. Lire n
+3. Allouer un tableau dynamique de n étudiants
+
+4. Pour i allant de 1 à n :
+     a. Afficher "Etudiant i :"
+     b. Lire nom, âge, note
+     c. Créer un objet Etudiant avec ces valeurs et l'ajouter au tableau
+
+5. Initialiser meilleur ← premier étudiant du tableau
+6. Pour i allant de 2 à n :
+     a. Si note[i] > meilleur.note alors
+         i. mettre à jour meilleur avec l'étudiant actuel
+
+7. Afficher "L'étudiant avec la meilleure note est : " + meilleur.nom + " avec " + meilleur.note
+
+8. Libérer la mémoire (delete[])
+
+Fin
