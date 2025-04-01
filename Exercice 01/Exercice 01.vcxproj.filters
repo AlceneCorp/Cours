@@ -16,5 +16,6 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="Enoncé.txt" />
+    <Text Include="Algo.txt" />
   </ItemGroup>
 </Project>

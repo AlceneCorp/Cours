@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{ED26D6CD-1CB8-4618-9CB1-B5CF6FDB6817}|Correction 01\\Correction 01.vcxproj|C:\\Users\\Admin\\source\\repos\\Cours\\Correction 01\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{ED26D6CD-1CB8-4618-9CB1-B5CF6FDB6817}|Correction 01\\Correction 01.vcxproj|solutionrelative:Correction 01\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED26D6CD-1CB8-4618-9CB1-B5CF6FDB6817}|Correction 01\\Correction 01.vcxproj|C:\\Users\\Admin\\source\\repos\\Cours\\Correction 01\\Etudiant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED26D6CD-1CB8-4618-9CB1-B5CF6FDB6817}|Correction 01\\Correction 01.vcxproj|solutionrelative:Correction 01\\Etudiant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,9 +44,22 @@
               "RelativeDocumentMoniker": "Correction 01\\main.cpp",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\Correction 01\\main.cpp",
               "RelativeToolTip": "Correction 01\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwDAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-31T23:34:17.969Z",
+              "WhenOpened": "2025-04-01T00:00:01.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Etudiant.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\Correction 01\\Etudiant.cpp",
+              "RelativeDocumentMoniker": "Correction 01\\Etudiant.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\Correction 01\\Etudiant.cpp",
+              "RelativeToolTip": "Correction 01\\Etudiant.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-31T23:59:45.61Z",
               "EditorCaption": ""
             }
           ]
