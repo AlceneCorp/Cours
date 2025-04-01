@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Cours\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D8FE230-6578-4FA8-B53C-3522242DE5DB}|Cours_11\\Cours_11.vcxproj|C:\\Users\\Admin\\source\\repos\\Cours\\Cours_11\\11_classes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3D8FE230-6578-4FA8-B53C-3522242DE5DB}|Cours_11\\Cours_11.vcxproj|solutionrelative:Cours_11\\11_classes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1118E6AB-3C2D-4355-9A51-801C88D3F6CA}|Cours_10\\Cours_10.vcxproj|C:\\Users\\Admin\\source\\repos\\Cours\\Cours_10\\10_stuctures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1118E6AB-3C2D-4355-9A51-801C88D3F6CA}|Cours_10\\Cours_10.vcxproj|solutionrelative:Cours_10\\10_stuctures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{ED26D6CD-1CB8-4618-9CB1-B5CF6FDB6817}|Correction 01\\Correction 01.vcxproj|C:\\Users\\Admin\\source\\repos\\Cours\\Correction 01\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED26D6CD-1CB8-4618-9CB1-B5CF6FDB6817}|Correction 01\\Correction 01.vcxproj|solutionrelative:Correction 01\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,28 +34,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "10_stuctures.cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\Cours_10\\10_stuctures.cpp",
-              "RelativeDocumentMoniker": "Cours_10\\10_stuctures.cpp",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\Cours_10\\10_stuctures.cpp",
-              "RelativeToolTip": "Cours_10\\10_stuctures.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-31T21:40:19.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "11_classes.cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\Cours_11\\11_classes.cpp",
-              "RelativeDocumentMoniker": "Cours_11\\11_classes.cpp",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\Cours_11\\11_classes.cpp",
-              "RelativeToolTip": "Cours_11\\11_classes.cpp",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEQAAAA4AAAAAAAAAA==",
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\Correction 01\\main.cpp",
+              "RelativeDocumentMoniker": "Correction 01\\main.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\Correction 01\\main.cpp",
+              "RelativeToolTip": "Correction 01\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-31T21:38:35.786Z",
+              "WhenOpened": "2025-03-31T23:34:17.969Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,72 @@
+Énoncé :
+
+1. Tu dois écrire un programme en C++ qui permet de gérer une liste d’étudiants.
+Chaque étudiant a un nom, un âge et une note.
+Le programme doit :
+
+2. Créer une classe Etudiant contenant ces informations.
+
+3. Gérer dynamiquement une liste d’étudiants (avec new et delete).
+
+4. Afficher les informations de tous les étudiants.
+
+5. Trouver l’étudiant avec la meilleure note.
+
+6. Libérer la mémoire correctement.
+
+Contrainte : 
+
+1. Utiliser une classe Etudiant avec attributs privés et méthodes publiques.
+
+2. Utiliser un pointeur Etudiant* pour gérer les objets dynamiquement.
+
+3. Le programme doit demander à l’utilisateur de saisir N étudiants et stocker leurs informations.
+
+4. Il doit ensuite afficher tous les étudiants et indiquer celui qui a la meilleure note.
+
+Barème (sur 20 points) :
+
+1. Définition correcte de la classe Etudiant avec attributs privés (nom, âge, note) et constructeur	4 pts
+2. Implémentation correcte des méthodes d'affichage et d'accès aux données	4 pts
+3. Utilisation de pointeurs (new et delete) pour gérer les objets dynamiquement	4 pts
+4. Fonctionnalité qui trouve l’étudiant ayant la meilleure note	4 pts
+5. Libération correcte de la mémoire (delete[])	2 pts
+6. Code bien structuré et commentaires explicatifs	2 pts
+Total	/20
+
+
+
+Exemple d’exécution attendue :
+
+Combien d'étudiants voulez-vous enregistrer ? 3
+
+Étudiant 1 :
+Nom : Alice
+Âge : 20
+Note : 15.5
+
+Étudiant 2 :
+Nom : Bob
+Âge : 22
+Note : 17.8
+
+Étudiant 3 :
+Nom : Charlie
+Âge : 19
+Note : 14.2
+
+--- Liste des étudiants ---
+Nom : Alice, Âge : 20, Note : 15.5
+Nom : Bob, Âge : 22, Note : 17.8
+Nom : Charlie, Âge : 19, Note : 14.2
+
+L’étudiant avec la meilleure note est : Bob avec 17.8
+
+
+
+Cet exercice permet de tester :
+
+✅ La définition et l’utilisation de classes
+✅ L’allocation dynamique et la gestion mémoire avec pointeurs
+✅ La manipulation de tableaux dynamiques
+✅ Les boucles et entrées utilisateur
