@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Cours\Cours C# 05\obj\Debug\net9.0\Cours C# 05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Cours\Cours C# 05\obj\Debug\net9.0\Cours C# 05.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Cours\Cours C# 05\obj\Debug\net9.0\Cours C# 05.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Cours\Cours C# 05\obj\Debug\net9.0\Cours C# 05.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Cours\Cours C# 05\obj\Debug\net9.0\Cours C# 05.sourcelink.json
+C:\Users\Admin\source\repos\Cours\Cours C# 05\bin\Debug\net9.0\Cours C# 05.exe
+C:\Users\Admin\source\repos\Cours\Cours C# 05\bin\Debug\net9.0\Cours C# 05.deps.json
+C:\Users\Admin\source\repos\Cours\Cours C# 05\bin\Debug\net9.0\Cours C# 05.runtimeconfig.json
+C:\Users\Admin\source\repos\Cours\Cours C# 05\bin\Debug\net9.0\Cours C# 05.dll
+C:\Users\Admin\source\repos\Cours\Cours C# 05\bin\Debug\net9.0\Cours C# 05.pdb
+C:\Users\Admin\source\repos\Cours\Cours C# 05\obj\Debug\net9.0\Cours C# 05.dll
+C:\Users\Admin\source\repos\Cours\Cours C# 05\obj\Debug\net9.0\refint\Cours C# 05.dll
+C:\Users\Admin\source\repos\Cours\Cours C# 05\obj\Debug\net9.0\Cours C# 05.pdb
+C:\Users\Admin\source\repos\Cours\Cours C# 05\obj\Debug\net9.0\Cours C# 05.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Cours\Cours C# 05\obj\Debug\net9.0\ref\Cours C# 05.dll

@@ -24,19 +24,30 @@ namespace Cours_C__02
             Console.WriteLine($"Talle d'un Boolean : {sizeof(Boolean)}");
             Console.WriteLine($"Talle d'un Char : {sizeof(Char)}{Environment.NewLine}");
 
+
             //Déclaration est initialisation des différents type de variables
             Int32 age = 25;
             Double temperature = 36.6;
             Boolean estConnecte = true;
             Char lettre = 'A';
-            String prenom = "Lucie";
 
             //Affichage des variables
+            Console.WriteLine("Bonjour !");
+
             Console.WriteLine($"Age : {age}");
             Console.WriteLine($"Température : {temperature}");
             Console.WriteLine($"Est connecté : {estConnecte}");
             Console.WriteLine($"Lettre : {lettre}");
-            Console.WriteLine($"Prénom : {prenom}");
+
+            String nom, prenom;
+
+            Console.WriteLine("Quel est votre nom ?");
+            nom = Console.ReadLine();
+            Console.WriteLine("Quel est votre prénom ? ");
+            prenom = Console.ReadLine();
+
+
+            Console.WriteLine($"Bonjour {nom} {prenom}");
 
         }
     }

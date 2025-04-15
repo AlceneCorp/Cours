@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Cours\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B2C7672-5809-4E6A-8E83-C4E7917B3640}|Cours C# 02\\Cours C# 02.csproj|c:\\users\\admin\\source\\repos\\cours\\cours c# 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B2C7672-5809-4E6A-8E83-C4E7917B3640}|Cours C# 02\\Cours C# 02.csproj|solutionrelative:cours c# 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|c:\\users\\admin\\source\\repos\\cours\\stationservice\\models\\venteclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|solutionrelative:stationservice\\models\\venteclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|c:\\users\\admin\\source\\repos\\cours\\stationservice\\models\\ventejournalier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|solutionrelative:stationservice\\models\\ventejournalier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|c:\\users\\admin\\source\\repos\\cours\\stationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|solutionrelative:stationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|c:\\users\\admin\\source\\repos\\cours\\stationservice\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|solutionrelative:stationservice\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|c:\\users\\admin\\source\\repos\\cours\\stationservice\\services\\stationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|solutionrelative:stationservice\\services\\stationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|c:\\users\\admin\\source\\repos\\cours\\stationservice\\models\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|solutionrelative:stationservice\\models\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,15 +54,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\Cours C# 02\\Program.cs",
-              "RelativeDocumentMoniker": "Cours C# 02\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\Cours C# 02\\Program.cs",
-              "RelativeToolTip": "Cours C# 02\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Vehicule.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Models\\Vehicule.cs",
+              "RelativeDocumentMoniker": "StationService\\Models\\Vehicule.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Models\\Vehicule.cs",
+              "RelativeToolTip": "StationService\\Models\\Vehicule.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwBQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T23:42:55.603Z",
+              "WhenOpened": "2025-04-15T17:39:08.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VenteClient.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Models\\VenteClient.cs",
+              "RelativeDocumentMoniker": "StationService\\Models\\VenteClient.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Models\\VenteClient.cs",
+              "RelativeToolTip": "StationService\\Models\\VenteClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T17:38:59.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VenteJournalier.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Models\\VenteJournalier.cs",
+              "RelativeDocumentMoniker": "StationService\\Models\\VenteJournalier.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Models\\VenteJournalier.cs",
+              "RelativeToolTip": "StationService\\Models\\VenteJournalier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T17:38:48.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StationService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Services\\StationService.cs",
+              "RelativeDocumentMoniker": "StationService\\Services\\StationService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Services\\StationService.cs",
+              "RelativeToolTip": "StationService\\Services\\StationService.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAADgv2MAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T17:34:55.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "StationService\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Models\\Client.cs",
+              "RelativeToolTip": "StationService\\Models\\Client.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwB0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T17:34:24.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Program.cs",
+              "RelativeDocumentMoniker": "StationService\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Program.cs",
+              "RelativeToolTip": "StationService\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T17:33:20.186Z",
               "EditorCaption": ""
             }
           ]

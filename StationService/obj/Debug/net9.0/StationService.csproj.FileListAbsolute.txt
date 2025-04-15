@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Cours\StationService\obj\Debug\net9.0\StationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Cours\StationService\obj\Debug\net9.0\StationService.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Cours\StationService\obj\Debug\net9.0\StationService.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Cours\StationService\obj\Debug\net9.0\StationService.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Cours\StationService\obj\Debug\net9.0\StationService.sourcelink.json
+C:\Users\Admin\source\repos\Cours\StationService\bin\Debug\net9.0\StationService.exe
+C:\Users\Admin\source\repos\Cours\StationService\bin\Debug\net9.0\StationService.deps.json
+C:\Users\Admin\source\repos\Cours\StationService\bin\Debug\net9.0\StationService.runtimeconfig.json
+C:\Users\Admin\source\repos\Cours\StationService\bin\Debug\net9.0\StationService.dll
+C:\Users\Admin\source\repos\Cours\StationService\bin\Debug\net9.0\StationService.pdb
+C:\Users\Admin\source\repos\Cours\StationService\obj\Debug\net9.0\StationService.dll
+C:\Users\Admin\source\repos\Cours\StationService\obj\Debug\net9.0\refint\StationService.dll
+C:\Users\Admin\source\repos\Cours\StationService\obj\Debug\net9.0\StationService.pdb
+C:\Users\Admin\source\repos\Cours\StationService\obj\Debug\net9.0\StationService.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Cours\StationService\obj\Debug\net9.0\ref\StationService.dll

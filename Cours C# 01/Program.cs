@@ -1,4 +1,6 @@
-﻿namespace Cours_C__01;
+﻿using System;
+
+namespace Cours_C__01;
 
 class Program
 {
@@ -7,3 +9,5 @@ class Program
         Console.WriteLine("Hello, World!");
     }
 }
+
+
