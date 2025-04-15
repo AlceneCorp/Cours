@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Cours\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|c:\\users\\admin\\source\\repos\\cours\\stationservice\\models\\venteclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|solutionrelative:stationservice\\models\\venteclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|c:\\users\\admin\\source\\repos\\cours\\stationservice\\models\\ventejournalier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|solutionrelative:stationservice\\models\\ventejournalier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|c:\\users\\admin\\source\\repos\\cours\\stationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|solutionrelative:stationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|c:\\users\\admin\\source\\repos\\cours\\stationservice\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|solutionrelative:stationservice\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AFDA5B9-950B-441C-8CBB-10D31F26E04E}|Exercice_01\\Exercice_01.vcxproj|C:\\Users\\Admin\\source\\repos\\Cours\\Exercice_01\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2AFDA5B9-950B-441C-8CBB-10D31F26E04E}|Exercice_01\\Exercice_01.vcxproj|solutionrelative:Exercice_01\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCD8AC3-66C6-45C8-8BD8-3E7DFA96466E}|Cours_06\\Cours_06.vcxproj|C:\\Users\\Admin\\source\\repos\\Cours\\Cours_06\\06_structure_conditionnelles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CCD8AC3-66C6-45C8-8BD8-3E7DFA96466E}|Cours_06\\Cours_06.vcxproj|solutionrelative:Cours_06\\06_structure_conditionnelles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|c:\\users\\admin\\source\\repos\\cours\\stationservice\\services\\stationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|solutionrelative:stationservice\\services\\stationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|c:\\users\\admin\\source\\repos\\cours\\stationservice\\models\\carburantstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|solutionrelative:stationservice\\models\\carburantstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|c:\\users\\admin\\source\\repos\\cours\\stationservice\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|solutionrelative:stationservice\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|c:\\users\\admin\\source\\repos\\cours\\stationservice\\models\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|solutionrelative:stationservice\\models\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|c:\\users\\admin\\source\\repos\\cours\\stationservice\\models\\ventejournalier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|solutionrelative:stationservice\\models\\ventejournalier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|c:\\users\\admin\\source\\repos\\cours\\stationservice\\models\\venteclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3440B4E-447C-41BF-BF81-575A11F75ADE}|StationService\\StationService.csproj|solutionrelative:stationservice\\models\\venteclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,80 +66,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Vehicule.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Models\\Vehicule.cs",
-              "RelativeDocumentMoniker": "StationService\\Models\\Vehicule.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Models\\Vehicule.cs",
-              "RelativeToolTip": "StationService\\Models\\Vehicule.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAjwBQAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T17:39:08.139Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VenteClient.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Models\\VenteClient.cs",
-              "RelativeDocumentMoniker": "StationService\\Models\\VenteClient.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Models\\VenteClient.cs",
-              "RelativeToolTip": "StationService\\Models\\VenteClient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T17:38:59.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VenteJournalier.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Models\\VenteJournalier.cs",
-              "RelativeDocumentMoniker": "StationService\\Models\\VenteJournalier.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Models\\VenteJournalier.cs",
-              "RelativeToolTip": "StationService\\Models\\VenteJournalier.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T17:38:48.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StationService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Services\\StationService.cs",
-              "RelativeDocumentMoniker": "StationService\\Services\\StationService.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Services\\StationService.cs",
-              "RelativeToolTip": "StationService\\Services\\StationService.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAADgv2MAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T17:34:55.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Models\\Client.cs",
-              "RelativeDocumentMoniker": "StationService\\Models\\Client.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Models\\Client.cs",
-              "RelativeToolTip": "StationService\\Models\\Client.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwB0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T17:34:24.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Program.cs",
               "RelativeDocumentMoniker": "StationService\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Program.cs",
               "RelativeToolTip": "StationService\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBoAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T17:33:20.186Z",
+              "WhenOpened": "2025-04-15T20:09:59.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\Exercice_01\\Main.cpp",
+              "RelativeDocumentMoniker": "Exercice_01\\Main.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\Exercice_01\\Main.cpp",
+              "RelativeToolTip": "Exercice_01\\Main.cpp",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-15T20:09:57.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "06_structure_conditionnelles.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\Cours_06\\06_structure_conditionnelles.cpp",
+              "RelativeDocumentMoniker": "Cours_06\\06_structure_conditionnelles.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\Cours_06\\06_structure_conditionnelles.cpp",
+              "RelativeToolTip": "Cours_06\\06_structure_conditionnelles.cpp",
+              "ViewState": "AgIAABwAAAAAAAAAAAAMwDcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-15T20:09:50.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StationService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Services\\StationService.cs",
+              "RelativeDocumentMoniker": "StationService\\Services\\StationService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Services\\StationService.cs",
+              "RelativeToolTip": "StationService\\Services\\StationService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA1wCsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:09:38.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarburantStock.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Models\\CarburantStock.cs",
+              "RelativeDocumentMoniker": "StationService\\Models\\CarburantStock.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Models\\CarburantStock.cs",
+              "RelativeToolTip": "StationService\\Models\\CarburantStock.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:09:36.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "StationService\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Models\\Client.cs",
+              "RelativeToolTip": "StationService\\Models\\Client.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:09:32.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vehicule.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Models\\Vehicule.cs",
+              "RelativeDocumentMoniker": "StationService\\Models\\Vehicule.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Models\\Vehicule.cs",
+              "RelativeToolTip": "StationService\\Models\\Vehicule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:09:30.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VenteJournalier.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Models\\VenteJournalier.cs",
+              "RelativeDocumentMoniker": "StationService\\Models\\VenteJournalier.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Models\\VenteJournalier.cs",
+              "RelativeToolTip": "StationService\\Models\\VenteJournalier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:09:29.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VenteClient.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Models\\VenteClient.cs",
+              "RelativeDocumentMoniker": "StationService\\Models\\VenteClient.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cours\\StationService\\Models\\VenteClient.cs",
+              "RelativeToolTip": "StationService\\Models\\VenteClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:09:27.514Z",
               "EditorCaption": ""
             }
           ]

@@ -33,5 +33,15 @@ namespace StationService.Models
         {
             QuantityInLiters += param_amount;
         }
+
+
+        public String GetFuelLabel(FuelType param_fuelType) => param_fuelType switch
+        {
+            FuelType.SP95 => "Sans-Plomb 95",
+            FuelType.SP98 => "Sans-Plomb 98",
+            FuelType.Diesel => "Diesel",
+            FuelType.E85 => "Etanol",
+            _ => "Inconnu"
+        };
     }
 }

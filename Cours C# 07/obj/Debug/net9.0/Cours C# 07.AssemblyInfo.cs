@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Cours C# 03")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Cours C# 07")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2462d7f66fef247c046fb0339aa4386c0520871")]
-[assembly: System.Reflection.AssemblyProductAttribute("Cours C# 03")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Cours C# 03")]
+[assembly: System.Reflection.AssemblyProductAttribute("Cours C# 07")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Cours C# 07")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.
